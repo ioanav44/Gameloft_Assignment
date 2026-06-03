@@ -1,6 +1,4 @@
-Încearcă AI direct în aplicațiile preferate … Folosește Gemini pentru a genera schițe și a rafina conținut și beneficiază de Gemini Pro cu acces la AI de ultimă generație de la Google
-1
-100 %
+
 # Take-Home Assignment — Subscription Service API
 
 ## Read this first
